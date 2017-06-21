@@ -1,6 +1,7 @@
-.done {
-    text-decoration: none;
+body {
+    width: 650px;
 }
+
 
 #todo-list li.completed label {
 	color: #a9a9a9;
