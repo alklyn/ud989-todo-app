@@ -11,3 +11,7 @@ body {
 li.completed label .label-content {
 	text-decoration: line-through;
 }
+
+li.completed label .done {
+	color: #09ee0a;
+}
