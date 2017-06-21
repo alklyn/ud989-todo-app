@@ -1,0 +1,12 @@
+.done {
+    text-decoration: none;
+}
+
+#todo-list li.completed label {
+	color: #a9a9a9;
+	text-decoration: none;
+}
+
+li.completed label .label-content {
+	text-decoration: line-through;
+}
